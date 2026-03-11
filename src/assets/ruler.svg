@@ -1,0 +1,16 @@
+curl 'https://api.eu.experiences.engageplatform.com/api/interact/d/record' \
+  -H 'accept: application/json, text/javascript, */*; q=0.01' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: application/x-www-form-urlencoded; charset=UTF-8' \
+  -H 'origin: https://xd.wayin.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://xd.wayin.com/' \
+  -H 'sec-ch-ua: "Google Chrome";v="143", "Chromium";v="143", "Not A(Brand";v="24"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-storage-access: active' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36' \
+  --data-raw 'email=tright444%40gmail.com&apikey=a587a142-38bd-4a4b-ad68-939d090ab1d1&campaignObjectId=343240&ngx_remember_me=true&ngx_check_entry=true&isXHR=true&containerId=66544476-7e94-416c-a651-263f76bdd71a&formId=422426&campaignId=343240&container_guid=d6339d41-463a-4c6d-ad1c-894d3a20410e&mode=&promotionId=&ngxInvitedFriends=&channelId=30847&medium=direct&source=hgtv&channel=website&content=&activity=&r=&brand=home&mcmid=05670367045114730087144354089078829719&referrerCode=&cbh=https%3A%2F%2Fxd.wayin.com&ngx_t_token2=10shuu.TRd8R2YzzY&ngx_e_token1=fgAGyP3EW9KjRuLvKGNEdoluIuq%2BroxJ1M4hVmmTzEOw8u0k9KnFzQP2jYpF5xRJuHUbQohp3Szmavl4jlveiu4xSURH4UfzqerXFGLZMtcz5r9HNOBwce%2F5vkbUBhy1iiEtDj8AGsx7JixJCF9h5iBJcAi1XYGK5RGTl8xtt8qgjm4%2FQmL%2BwFEjTCt6ggEMC9XvsroAz80mJ5c%2BS%2FvBL%2F1iqnPZy92Ha%2BeHc1FQh60l%2FBGnkX4wKgQuS3DDVdRfZG2cnOitRe5LI7ZBlTQwVc7V29OwOPsGtaRn8gqdRn0luDllcwT7QDb%2Fxl1sVNCeiCOjTcfkYgxSVJ0CbfCwMSuCSxfTsQzhcRdhUgCtFfmME1wUtynz%2BXiTrr%2BU%2BzI8K9DVWwOaLcAG%2BMOMbI0gSRVDdZENWhRS67EEZjfiZBW03hetgNXz1lK74COJNQVEwrpr90fkuolu4IQOqjZMDOz242yjNe7G%2F3muJi27i308gLnYRdssg4u90ghHjbE34ieVmtK8BGa85qrTTIoXogwgnjpm6ZhJHctYyJJMDZdniTl9E6e9rR24quV0iMYnJpuoD7xeR8vqYwTUHb4GQ83dgGg0Kp8jY1cTNnIv3ykRGzychtsb7eOBtyG7%2BJq5XJk6n%2BQEkJserSBIATUfCHsPvzAPa%2FkmxidH0v06buYPXZW5fhLFxa0Eo2vsudxdEAtZ7lESjsmY1LENZ8gMuB%2FUMTWbGnuXz9OcT3fputdWWkIzXgk4qXV20WSez4NOoYdxP6YAnckvWgIftDf6T35MWTgeTQvH6OVUIcrXtnOb%2FoN7CXRrgHJ7jzOuP2pZWwZfASSPy5aYmhJxCh4geOqI7QLrL%2F2t81BZKlF8H1o8Va2Tr3%2FcCO2FOTvTBg3RMEDVopLWRL7KE6Wf%2BTZEcKT%2FYp%2F9ywwWesO5B0Hhu74eI3ZDu%2F1IN61l1E6hdCkJsGd0kwF7p41EGgA%2BQ6bzscc1DAhbPd%2F02rMTKpwgGrp6U%2FX07vFuCtFRwyCcFztI3hzr%2F%2FEzBaMFKkd1n8oqrf2b3SQmRoYHcrUXbwpaCPRb2AQCJveIkUj8B4IWTqiImXsw0kVQj3IFhNJchdihXZuW95eBNA0hu3Yj%2FAbEpNtUssOOpV7XnMahmV%2FbVkM3d0SiqP5vR32XTJgEBfE8vBDKx2Mn%2Fj4VuwnZsE1Zq75qj8QKeY1x7mKsifENZDWTIaYJvcopatTxtwXn1mLxkYJJ1D7evofLNnN7lZ%2FyvWUTgJqVNbnOHtUWM20yJEu8WBGNQymB9fVjEeKCsyqgzpT425cPWDf2BxFKCAsT1p3b0K5m2Cy8k6Jxm23vlWiG5SRplnhUPW5gTNEJ1FdwKtpu2L%2BmVwC%2BgPPq1vTinTvKQIpOKsKLncRlEP0pUKGSfBoNUqiKJSuF8ha6XUAITzej8y1tSy%2Fnhq2GK88BjgivQGzA0ifS2Rt7LoHLcEnZfCbeohEca8mv7mvmOVXO4QX4Yf5aj5SgtC2Dh5hU5Y%2B3kfoIIKp9EsUUJhehTtgYFkklfEj5POJxYGzI6SWP%2Buk5WecgnCCmPcWjjAP7BwgMXKEvDqd7%2BNZeyTGN23R%2F&ngx_e_token2=fIbwCATk%2BXz188R%2FC9L9IiTJaWFjOP7UiccG4flSloM%3D'
